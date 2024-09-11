@@ -74,6 +74,7 @@ const Hero = () => {
               required
             />
             <select
+              required
               className="w-full py-1 pl-2 border outline-none "
               name="gender"
               id=""
